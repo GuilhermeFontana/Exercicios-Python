@@ -1,0 +1,5 @@
+frase = str(input("Digite sua frase: "))
+conversao = frase.strip().lower()
+print(f"Quantas vezes aparece a letra A: {conversao.count("a")} vezes")
+print(f"A letra A apareceu pela primeira vez no indice: {conversao.find("a")+1} ")
+print(f"A letra A apareceu pela ultima vez no indice: {conversao.rfind("a")+1} ")
