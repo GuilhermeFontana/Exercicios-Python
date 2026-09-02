@@ -1,4 +1,4 @@
-# 🐍 Exercícios de Python 3 — Curso em Vídeo
+#  Exercícios de Python 3 — Curso em Vídeo
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## 📌 Sobre o Repositório
+##  Sobre o Repositório
 
 Este repositório é dedicado ao registro da minha evolução prática **durante o curso de Python 3 ministrado pelo Prof. Gustavo Guanabara (Curso em Vídeo)**. 
 
@@ -16,7 +16,7 @@ Aqui guardo as resoluções de desafios e exercícios desenvolvidos ao longo das
 
 ---
 
-## 🎓 Referência do Curso
+## Referência do Curso
 
 - **Curso:** Python 3
 - **Plataforma:** [Curso em Vídeo](https://www.cursoemvideo.com/)
@@ -24,7 +24,7 @@ Aqui guardo as resoluções de desafios e exercícios desenvolvidos ao longo das
 
 ---
 
-## 📚 Módulos & Conteúdos
+##  Módulos & Conteúdos
 
 - [x] **Mundo 1 — Fundamentos:** Entrada/saída de dados, tipos primitivos, operadores aritméticos, módulos e fatiamento de strings.
 - [ ] **Mundo 2 — Estruturas de Controle:** Tomada de decisão (`if/elif/else`) e laços de repetição (`for` e `while`).
@@ -32,7 +32,7 @@ Aqui guardo as resoluções de desafios e exercícios desenvolvidos ao longo das
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - **Linguagem:** Python 3.x
 - **IDE / Editor:** Pycharm
@@ -40,7 +40,7 @@ Aqui guardo as resoluções de desafios e exercícios desenvolvidos ao longo das
 
 ---
 
-## 🚀 Como Executar os Exercícios
+##  Como Executar os Exercícios
 
 1. **Clone este repositório:**
    ```bash
